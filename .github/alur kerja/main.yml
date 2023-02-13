@@ -1,0 +1,25 @@
+gitlab.com
+
+ 
+
+gitpod.io
+
+ 
+
+ngrok.com
+
+ 
+
+الاكواد : (انسخ الاكواد بدقة )
+
+jernih
+
+sudo su
+
+wget -O w10x64.sh https://bit.ly/windows10x64gitpod
+
+chmod +x w10x64.sh
+
+./w10x64.sh
+
+ 
